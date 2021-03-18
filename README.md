@@ -1,9 +1,8 @@
-# PluralKit
-PluralKit is a Discord bot meant for plural communities. It has features like message proxying through webhooks, switch tracking, system and member profiles, and more.
+# ProxyJam
+ProxyJam is a Discord bot meant for plural communities. It has features like message proxying through webhooks, switch tracking, system and member profiles, and more.
 
-**Do you just want to add PluralKit to your server? If so, you don't need any of this. Use the bot's invite link: https://discord.com/oauth2/authorize?client_id=466378653216014359&scope=bot%20applications.commands&permissions=536995904**
+**Do you just want to add ProxyJam to your server? If so, you don't need any of this. Use the bot's invite link: https://discord.com/api/oauth2/authorize?client_id=821989741880672276&permissions=805825600&scope=bot**
 
-PluralKit has a Discord server for support, feedback, and discussion: https://discord.gg/PczBt78 
 
 # Requirements
 Running the bot requires [.NET 5](https://dotnet.microsoft.com/download) and a PostgreSQL database. It should function on any system where the prerequisites are set up (including Windows).
